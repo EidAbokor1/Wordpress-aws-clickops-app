@@ -59,4 +59,4 @@ Understanding how AWS services interconnect, network security, load balancing, C
 
 ## How to Build This
 
-See [SETUP.md](./SETUP.md) for complete step-by-step ClickOps guide with screenshots.
+See [Setup.md](./Setup.md) for complete step-by-step ClickOps guide with screenshots.
