@@ -57,6 +57,6 @@ All configuration done via **AWS Console ClickOps** (no infrastructure-as-code, 
 
 Understanding how AWS services interconnect, network security, load balancing, CDN caching, managed databases, and IAM permissions through hands-on deployment.
 
-## Screenshots
+## How to Build This
 
-See `/screenshots` folder for AWS Console configurations.
+See [SETUP.md](./SETUP.md) for complete step-by-step ClickOps guide with screenshots.
